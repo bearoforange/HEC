@@ -1,0 +1,24 @@
+[{
+    "ID": 1,
+    "time": {
+        "initial": 1712420095,
+        "frequency": {
+            "minute": 2,
+            "hour": 0,
+            "day": 0
+        }
+    },
+    "message": "This event occurs every two minutes."
+},
+{
+    "ID": 2,
+    "time": {
+        "initial": 1713024895,
+        "frequency": {
+            "minute": 0,
+            "hour": 0,
+            "day": 0
+        }
+    },
+    "message": "Occurs once. Next week."
+}]
